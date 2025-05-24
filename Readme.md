@@ -26,36 +26,35 @@ Start following containers
 
 > Look at pgadmin service in docker-compose.yaml (Line 94 and 95)
 
-Url : http://localhost:8888/
-User Name : punchouty
-User Email : punchouty@gmail.com
-Password : strong-P@ssw0rd
+* Url : http://localhost:8888/
+* User Name : punchouty
+* User Email : punchouty@gmail.com
+* Password : strong-P@ssw0rd
 
 #### Postgres (Access it via PgAdmin)
 
 After login to pgadmin click on **Add Server**
 
-General Tab > Name : local
-Connection Tab > 
+* General Tab > Name : local
+* Connection Tab > 
 
-Host name/address : postgres
-User Name : punchouty
-Password : strong-P@ssw0rd
+1. Host name/address : postgres
+2. User Name : punchouty
+3. Password : strong-P@ssw0rd
 
 #### n8n
 
-Url : http://localhost:5678/ 
-
-Email : punchouty@gmail.com
-First Name : Rajan
-Last Name : Punchouty
-Password : strong-P@ssw0rd
+* Url : http://localhost:5678/ & Sign up
+* Email : punchouty@gmail.com
+* First Name : Rajan
+* Last Name : Punchouty
+* Password : strong-P@ssw0rd
 
 #### Qdrant
 
-Web UI : lhttp://ocalhost:6333/dashboard
-Rest API : http://localhost:6333
-GRPC API: http://localhost:6334
+* Web UI : lhttp://ocalhost:6333/dashboard
+* Rest API : http://localhost:6333
+* GRPC API: http://localhost:6334
 
 ### Setup Ollama (Optional)
 
